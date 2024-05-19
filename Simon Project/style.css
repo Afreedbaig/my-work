@@ -1,0 +1,53 @@
+h2 , h4{
+    text-align: center;
+}
+#A{
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+div>div>div{
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    border-radius: 15px;
+    
+}
+.B{
+    background-color: green;
+    border: 8px solid black;
+}
+.C{
+    background-color: orange;
+    border: 8px solid black;
+}
+.D{
+    background-color: aqua;
+    border: 8px solid black;
+}
+.E{
+    background-color: blue;
+    border: 8px solid black;
+}
+.flash{
+    background-color: white;
+}
+.Btn{
+    color: transparent;
+}
+button{
+    opacity: 1;
+    display: block;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    appearance: none;
+    border: none transparent;
+    color: transparent;
+    background-color: transparent;
+}
+.user{
+    background-color: black;
+}
